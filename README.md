@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sayam Goswami
 #### I am a student devoloper
-![I am a student devoloper](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaaub_rcIpZYYeJmtd6vC_W38AFnMTJuc4DA&usqp=CAU)
+![I am a student devoloper](https://avatars.githubusercontent.com/u/81681676?v=4)
 
 I'm a explorer of Programming, want to explore new. Fond of CLI devolopment.
 
