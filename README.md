@@ -5,10 +5,10 @@
 
 I'm a explorer of Programming, want to explore new. Fond of CLI devolopment.
 
-Skills: PYTHON / BASH / RUST /HTML
+Skills: PYTHON / BASH / HTML / little C & Cpp
 
 - 🔭 I’m currently working on Cli app devoloping 
-- 🌱 I’m currently learning Click-Python 
+- 🌱 I’m currently learning C 
 - 💬 Ask me about Python, bash 
 
 # Find me On
