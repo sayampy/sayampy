@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Sayam Goswami
 ![author](https://img.shields.io/badge/author-Sayampy-blue)
-#### I am a student devoloper
+#### I am a middle School student and a hobbyist devoloper.
 <!--m![I am a student devoloper](https://avatars.githubusercontent.com/u/81681676?v=4)-->
 
 I'm a explorer of Programming, want to explore new. Fond of CLI devolopment.
