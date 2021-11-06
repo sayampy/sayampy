@@ -7,9 +7,9 @@ I'm a explorer of Programming, want to explore new. Fond of CLI devolopment.
 
 Skills: PYTHON / BASH / HTML / little C & Cpp
 
-- 🔭 I’m currently working on Cli app devoloping 
-- 🌱 I’m currently learning C 
-- 💬 Ask me about Python, bash 
+- 🔭 I’m currently working on Cli & curses.
+- 🌱 I’m currently learning C.
+- 💬 Ask me about Python, bash. 
 
 # Find me On
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sayampy)      [<img src="https://img.icons8.com/material-rounded/48/000000/discord-logo.png"/>](https://discord.com/channels/@me/810418783847055411)
