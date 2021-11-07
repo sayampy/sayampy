@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Sayam Goswami
+<h1 style="animation:round 3s infinite">Sayam Goswami</h1>
 ![author](https://img.shields.io/badge/author-Sayampy-blue)
 #### I am a middle School student and a hobbyist devoloper.
 <!--m![I am a student devoloper](https://avatars.githubusercontent.com/u/81681676?v=4)-->
