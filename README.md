@@ -5,11 +5,6 @@
 
 I'm a explorer of Programming, want to explore new. Fond of CLI devolopment.
 
-## Skills:
-| 😌 | 😎 | 😒🤏 |
-|---|---|---|
-| Python | HTML | C/Cpp |
-
 - 🔭 I’m currently coding **a web-based game with @sijey-praveen**
 - 🌱 I’m currently learning C.
 - 💬 Ask me about Python, ncurses.
