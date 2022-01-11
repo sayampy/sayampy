@@ -5,9 +5,9 @@
 
 I'm a explorer of Programming, want to explore new. Fond of CLI devolopment.
 
-- 🔭 I’m currently coding **a web-based game with @sijey-praveen**
-- 🌱 I’m currently learning C.
-- 💬 Ask me about Python, ncurses.
+- 🔭 I’m currently exploring the world of AI.
+- 🌱 I’m currently learning NLP.
+- 💬 Ask me about Python.
 
 ## Follow/Friend me On
 
