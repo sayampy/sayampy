@@ -12,7 +12,7 @@ I'm a explorer of Programming, want to explore new. Fond of CLI devolopment.
 ## Follow/Friend me On
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sayampy)
-[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt='message @sayampy on discord' height='40'>](https://discord.com/channels/@me/810418783847055411)
+[<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt='message @sayampy on discord' height='40'>](https://discord.com/users/810418783847055411)
 [<img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt='stackoverflow' height='40'>](https://stackoverflow.com/users/15397541/sayampy?tab=profile)
 ## My Github stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayampy)](https://github.com/ryo-ma/github-profile-trophy)
