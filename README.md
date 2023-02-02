@@ -2,7 +2,7 @@
 #### I am a middle School student and a hobbyist devoloper.
 <!--m![I am a student devoloper](https://avatars.githubusercontent.com/u/81681676?v=4)-->
 
-I'm a explorer of Programming, want to explore new.l
+I'm an explorer of Programming, want to explore new.
 
 - 🔭 intrested in the world of AI.
 - 🌱 I’m currently busy at school
