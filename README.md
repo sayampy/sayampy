@@ -7,6 +7,8 @@ I'm an explorer of Programming, want to explore new.
 - 🔭 intrested in the world of AI.
 - 🌱 I’m currently busy at school
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61O5FRY)
+
 ## My Github stats
 [![trophy](https://github-profile-trophy.vercel.app/?username=sayampy)](https://github.com/ryo-ma/github-profile-trophy)
 
