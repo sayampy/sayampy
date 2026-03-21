@@ -10,7 +10,6 @@ I'm an explorer of Programming, want to explore new.
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T61O5FRY)
 
 ## My Github stats
-[![trophy](https://github-profile-trophy.vercel.app/?username=sayampy)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sayampy)](https://github.com/anuraghazra/github-readme-stats)
 
