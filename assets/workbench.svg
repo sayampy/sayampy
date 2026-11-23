@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+  <title id="title">Sayam's workbench</title>
+  <desc id="desc">A dark workbench graphic connecting audio waveforms, LLM expert routing, and traffic simulation.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#333b32" stroke-width="1" opacity=".45"/>
+    </pattern>
+    <linearGradient id="panel" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#20291f"/>
+      <stop offset="1" stop-color="#171d18"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" rx="18" fill="#121612"/>
+  <rect width="1200" height="340" rx="18" fill="url(#grid)"/>
+  <path d="M0 286H1200" stroke="#394238" stroke-width="1"/>
+  <rect x="42" y="38" width="5" height="240" rx="2.5" fill="#c9f36b"/>
+  <text x="72" y="72" fill="#b1baaa" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="14" letter-spacing="3">SAYAM / PERSONAL WORKBENCH</text>
+  <text x="68" y="157" fill="#f1f0e8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="67" font-weight="700" letter-spacing="-3">BUILD.</text>
+  <text x="68" y="222" fill="#c9f36b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="67" font-weight="700" letter-spacing="-3">MEASURE.</text>
+  <text x="72" y="258" fill="#a6afa0" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="15" letter-spacing="2">SOUND · INFERENCE · SIMULATION</text>
+  <rect x="682" y="38" width="474" height="238" rx="12" fill="url(#panel)" stroke="#3a4638"/>
+  <text x="710" y="67" fill="#a7b29f" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2">THREE THINGS ON THE BENCH</text>
+  <path d="M710 82H1128" stroke="#3a4638"/>
+  <text x="710" y="111" fill="#f1f0e8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">01 / AUDIO</text>
+  <path d="M850 105h13l7-12 9 27 9-39 10 50 9-37 8 18 9-7h12l7-10 9 19 8-10h13" fill="none" stroke="#ff9177" stroke-width="2.5" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M710 131H1128" stroke="#303a30"/>
+  <text x="710" y="162" fill="#f1f0e8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">02 / INFERENCE</text>
+  <g stroke="#c9f36b" stroke-width="1.5" fill="none" opacity=".9">
+    <path d="M865 155L900 147L935 162L974 145L1010 157L1052 147"/>
+    <path d="M900 147L916 178L974 145L993 177L1052 147"/>
+  </g>
+  <g fill="#c9f36b">
+    <circle cx="865" cy="155" r="4"/><circle cx="900" cy="147" r="4"/><circle cx="935" cy="162" r="4"/><circle cx="974" cy="145" r="4"/><circle cx="1010" cy="157" r="4"/><circle cx="1052" cy="147" r="4"/><circle cx="916" cy="178" r="3"/><circle cx="993" cy="177" r="3"/>
+  </g>
+  <path d="M710 192H1128" stroke="#303a30"/>
+  <text x="710" y="224" fill="#f1f0e8" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13">03 / SIMULATION</text>
+  <g stroke="#7e8a78" stroke-width="1.5" stroke-dasharray="6 5" fill="none">
+    <path d="M865 208H1128"/><path d="M865 224H1128"/><path d="M865 240H1128"/>
+  </g>
+  <g fill="#ff9177">
+    <rect x="888" y="202" width="22" height="10" rx="3"/><rect x="979" y="218" width="22" height="10" rx="3"/><rect x="1060" y="234" width="22" height="10" rx="3"/>
+  </g>
+  <text x="72" y="313" fill="#7e8979" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="2">NOT A STARTUP PITCH. JUST THINGS I LIKE BUILDING.</text>
+  <text x="1128" y="313" text-anchor="end" fill="#c9f36b" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12">EST. 2026</text>
+</svg>
