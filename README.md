@@ -7,7 +7,7 @@
   </p>
 </div>
 
-Maths student from West Bengal. I build apps, poke at inference speed, and write simulations when I can't settle an argument in my head.
+Maths student from India. I build apps, poke at inference speed, and write simulations when I can't settle an argument in my head.
 
 Lately I've been splitting time between an offline audio app, patches to a Rust inference engine, and a traffic simulator that suggests "smart" drivers aren't always smart.
 
