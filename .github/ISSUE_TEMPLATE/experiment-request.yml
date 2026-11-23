@@ -1,0 +1,37 @@
+name: Suggest a bench experiment
+description: Pitch a model, bottleneck, or odd result worth testing.
+title: "[Bench request] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Got an interesting model, quantisation method, or performance problem?
+        Give me something concrete to test. Small, weird ideas are welcome.
+  - type: dropdown
+    id: topic
+    attributes:
+      label: Pick a rabbit hole
+      options:
+        - MoE routing and expert placement
+        - KV cache and long context
+        - Speculative decoding
+        - CPU/GPU offloading
+        - Audio denoising
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: experiment
+    attributes:
+      label: What should I try?
+      description: A model, technique, setting, benchmark, or problem.
+      placeholder: "Try ... because ..."
+    validations:
+      required: true
+  - type: textarea
+    id: context
+    attributes:
+      label: Links or extra context
+      description: Optional papers, repos, benchmarks, or notes.
+    validations:
+      required: false
